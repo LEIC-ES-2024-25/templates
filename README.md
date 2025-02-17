@@ -68,7 +68,7 @@ Indicate an  initial/tentative list of high-level features - high-level capabili
 ...
 
 Optionally, indicate an initial/tentative list of assumptions that you are doing about the app and dependencies of the app to other systems.
-—>
+-->
 
 ### Elevator Pitch
 <!-- 
@@ -78,7 +78,7 @@ Take a look at the following links to learn some techniques:
 * [Crafting an Elevator Pitch](https://www.mindtools.com/pages/article/elevator-pitch.htm)
 * [The Best Elevator Pitch Examples, Templates, and Tactics - A Guide to Writing an Unforgettable Elevator Speech, by strategypeak.com](https://strategypeak.com/elevator-pitch-examples/)
 * [Top 7 Killer Elevator Pitch Examples, by toggl.com](https://blog.toggl.com/elevator-pitch-examples/)
-—>
+-->
 
 ## Requirements
 
@@ -109,11 +109,11 @@ For each user story you should write also the acceptance tests (textually in [Gh
 **Value and effort**.
 At the end, it is good to add a rough indication of the value of the user story to the customers (e.g. [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method) method) and the team should add an estimation of the effort to implement it, for example, using points in a kind-of-a Fibonnacci scale (1,2,3,5,8,13,20,40, no idea).
 
-—>
+-->
 
 ### Domain model
 
-<!— 
+<!-- 
 To better understand the context of the software system, it is useful to have a simple UML class diagram with all and only the key concepts (names, attributes) and relationships involved of the problem domain addressed by your app. 
 Also provide a short textual description of each concept (domain class). 
 
@@ -133,11 +133,11 @@ A well written architecture document is brief and reduces the amount of time it 
 To document the architecture requires describing the decomposition of the system in their parts (high-level components) and the key behaviors and collaborations between them. 
 
 In this section you should start by briefly describing the components of the project and their interrelations. You should describe how you solved typical problems you may have encountered, pointing to well-known architectural and design patterns, if applicable.
-—>
+-->
 
 
 ### Logical architecture
-<!—
+<!--
 The purpose of this subsection is to document the high-level logical structure of the code (Logical View), using a UML diagram with logical packages, without the worry of allocating to components, processes or machines.
 
 It can be beneficial to present the system in a horizontal decomposition, defining layers and implementation concepts, such as the user interface, business logic and concepts.
@@ -145,11 +145,11 @@ It can be beneficial to present the system in a horizontal decomposition, defini
 Example of _UML package diagram_ showing a _logical view_ of the Eletronic Ticketing System (to be accompanied by a short description of each package):
 
 ![LogicalView](https://user-images.githubusercontent.com/9655877/160585416-b1278ad7-18d7-463c-b8c6-afa4f7ac7639.png)
-—>
+-->
 
 
 ### Physical architecture
-<!—
+<!--
 The goal of this subsection is to document the high-level physical structure of the software system (machines, connections, software components installed, and their dependencies) using UML deployment diagrams (Deployment View) or component diagrams (Implementation View), separate or integrated, showing the physical structure of the system.
 
 It should describe also the technologies considered and justify the selections made. Examples of technologies relevant for ESOF are, for example, frameworks for mobile applications (such as Flutter).
@@ -157,20 +157,20 @@ It should describe also the technologies considered and justify the selections m
 Example of _UML deployment diagram_ showing a _deployment view_ of the Eletronic Ticketing System (please notice that, instead of software components, one should represent their physical/executable manifestations for deployment, called artifacts in UML; the diagram should be accompanied by a short description of each node and artifact):
 
 ![DeploymentView](https://user-images.githubusercontent.com/9655877/160592491-20e85af9-0758-4e1e-a704-0db1be3ee65d.png)
-—>
+-->
 
 
 ### Vertical prototype
-<!—
+<!--
 To help on validating all the architectural, design and technological decisions made, we usually implement a vertical prototype, a thin vertical slice of the system integrating as much technologies we can.
 
 In this subsection please describe which feature, or part of it, you have implemented, and how, together with a snapshot of the user interface, if applicable.
 
 At this phase, instead of a complete user story, you can simply implement a small part of a feature that demonstrates thay you can use the technology, for example, show a screen with the app credits (name and authors).
-—>
+-->
 
 ## Project management
-<!—
+<!--
 Software project management is the art and science of planning and leading software projects, in which software projects are planned, implemented, monitored and controlled.
 
 In the context of ESOF, we recommend each team to adopt a set of project management practices and tools capable of registering tasks, assigning tasks to team members, adding estimations to tasks, monitor tasks progress, and therefore being able to track their projects.
@@ -189,5 +189,18 @@ You can find below information and references related with the project managemen
     * Puzzles: things we don’t know yet if they are right or wrong… 
     * list of a few improvements to implement next Sprint;
 
-—>
+-->
+
+### Sprint 0
+
+### Sprint 1
+
+### Sprint 2
+
+### Sprint 3
+
+### Sprint 4
+
+### Final Release
+
 
