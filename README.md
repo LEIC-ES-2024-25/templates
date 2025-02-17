@@ -20,6 +20,12 @@ This Software Development Report, tailored for LEIC-ES-2024-25, provides compreh
   * [Physical architecture](#Physical-Architecture)
   * [Vertical prototype](#Vertical-Prototype)
 * [Project management](#Project-Management)
+  * [Sprint 0](#Sprint-0)
+  * [Sprint 1](#Sprint-1)
+  * [Sprint 2](#Sprint-2)
+  * [Sprint 3](#Sprint-3)
+  * [Sprint 4](#Sprint-4)
+  * [Final Release](#Final-Release)
 
 Contributions are expected to be made exclusively by the initial team, but we may open them to the community, after the course, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
 
