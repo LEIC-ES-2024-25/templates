@@ -121,11 +121,11 @@ Example:
  <p align="center" justify="center">
   <img src="https://github.com/FEUP-LEIC-ES-2022-23/templates/blob/main/images/DomainModel.png"/>
 </p>
-—>
+-->
 
 
 ## Architecture and Design
-<!—
+<!--
 The architecture of a software system encompasses the set of key decisions about its organization. 
 
 A well written architecture document is brief and reduces the amount of time it takes new programmers to a project to understand the code to feel able to make modifications and enhancements.
